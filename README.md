@@ -1,4 +1,4 @@
-# To add repo with local folder
+# To link repo with local folder
 ```
 git status
 ```
